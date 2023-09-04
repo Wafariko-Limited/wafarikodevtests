@@ -1,4 +1,3 @@
-# wafarikodevtests
 # Microservice-Ecommerce-Exercise
 
 ## Introduction
